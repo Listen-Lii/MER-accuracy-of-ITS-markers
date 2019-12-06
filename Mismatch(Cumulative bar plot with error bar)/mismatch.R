@@ -1,7 +1,8 @@
-
+#读入文件
 x<-read.table(file="mis.txt",sep="\t",header=T)  
 x
 
+#每组分别计算不同mismatch的标准偏差及坐标
 library(tidyverse)
 E_A = x %>% filter(Type == "E",primer=="A") %>%
   group_by(mismatch)%>%
@@ -64,6 +65,7 @@ SK_C = x %>% filter(Type == "SK",primer=="C") %>%
 SK_C = cbind(Type=rep("SK_C",3),SK_C,for_sd=unlist(c(100,SK_C[2,2],SK_C[2,2]+SK_C[3,2])) )    
 
 ##################
+#合并
 da.ta = rbind(E_A,E_B,E_C,EK_A,EK_B,EK_C,S_A,S_B,S_C,SK_A,SK_B,SK_C)
 data = cbind(facet=c(rep("Even community",18),rep("Staggered community",18)),da.ta)
 data
@@ -71,6 +73,7 @@ data$level =rep(c("A","C","B"),12)
 
 data2 = data %>% arrange(Type,level);data2
 
+#画图
 library(ggplot2)
 plot_theme = theme(panel.background=element_blank(),
                    panel.grid=element_blank(),
