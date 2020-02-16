@@ -1,0 +1,2 @@
+^.*Metazoa.*\r?\n  ##含有Metazoa的行删掉
+或^.*fungi.*$  这种会保留空行
