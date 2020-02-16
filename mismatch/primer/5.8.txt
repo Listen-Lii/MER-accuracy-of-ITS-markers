@@ -1,0 +1,43 @@
+Phylum	percent	type
+Aphelidiomycota	100.00 	Perfect match
+Ascomycota	85.91 	Perfect match
+Basidiomycota	83.76 	Perfect match
+Blastocladiomycota	68.42 	Perfect match
+Calcarisporiellomycota	83.33 	Perfect match
+Chytridiomycota	79.77 	Perfect match
+Entomophthoromycota	59.38 	Perfect match
+Entorrhizomycota	92.31 	Perfect match
+Glomeromycota	30.10 	Perfect match
+GS19	100.00 	Perfect match
+Kickxellomycota	47.06 	Perfect match
+Monoblepharomycota	90.91 	Perfect match
+Mortierellomycota	85.77 	Perfect match
+Mucoromycota	77.93 	Perfect match
+Neocallimastigomycota	69.74 	Perfect match
+Olpidiomycota	100.00 	Perfect match
+Rozellomycota	86.13 	Perfect match
+Glaucophyta	0.00 	Perfect match
+Zoopagomycota	0.00 	Perfect match
+GS01	0.00 	Perfect match
+Aphelidiomycota	0.00 	Mismatch¡Ü1
+Ascomycota	10.18 	Mismatch¡Ü1
+Basidiomycota	11.81 	Mismatch¡Ü1
+Blastocladiomycota	13.16 	Mismatch¡Ü1
+Calcarisporiellomycota	16.67 	Mismatch¡Ü1
+Chytridiomycota	15.95 	Mismatch¡Ü1
+Entomophthoromycota	15.63 	Mismatch¡Ü1
+Entorrhizomycota	7.69 	Mismatch¡Ü1
+Glomeromycota	64.84 	Mismatch¡Ü1
+GS19	0.00 	Mismatch¡Ü1
+Kickxellomycota	2.94 	Mismatch¡Ü1
+Monoblepharomycota	0.00 	Mismatch¡Ü1
+Mortierellomycota	7.12 	Mismatch¡Ü1
+Mucoromycota	17.47 	Mismatch¡Ü1
+Neocallimastigomycota	13.16 	Mismatch¡Ü1
+Olpidiomycota	0.00 	Mismatch¡Ü1
+Rozellomycota	12.14 	Mismatch¡Ü1
+Glaucophyta	100.00 	Mismatch¡Ü1
+Zoopagomycota	66.67 	Mismatch¡Ü1
+GS01	0.00 	Mismatch¡Ü1
+
+

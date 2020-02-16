@@ -1,0 +1,13 @@
+Sample	group
+E	a
+EK	b
+E_1F	a
+EK_1F	b
+E_5	a
+EK_5	b
+S	a
+SK	b
+S_1F	a
+SK_1F	b
+S_5	a
+SK_5	b

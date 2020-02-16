@@ -1,0 +1,30 @@
+Phylum	percent	type
+Ascomycota	12.81 	Perfect match
+Basidiomycota	28.25 	Perfect match
+Blastocladiomycota	2.70 	Perfect match
+Chytridiomycota	13.81 	Perfect match
+Cryptomycota	21.08 	Perfect match
+Mucoromycota	14.52 	Perfect match
+Neocallimastigomycota	29.63 	Perfect match
+uncultured Eimeriidae	25.00 	Perfect match
+uncultured Tremellaceae	75.00 	Perfect match
+Zoopagomycota	18.18 	Perfect match
+Ascomycota	29.78 	Mismatch¡Ü1
+Basidiomycota	22.32 	Mismatch¡Ü1
+Blastocladiomycota	40.54 	Mismatch¡Ü1
+Chytridiomycota	29.41 	Mismatch¡Ü1
+Cryptomycota	17.04 	Mismatch¡Ü1
+Mucoromycota	9.02 	Mismatch¡Ü1
+Neocallimastigomycota	18.52 	Mismatch¡Ü1
+uncultured Eimeriidae	75.00 	Mismatch¡Ü1
+uncultured Tremellaceae	0.00 	Mismatch¡Ü1
+Zoopagomycota	32.54 	Mismatch¡Ü1
+uncultured Sarcosomataceae	0.00 	Perfect match
+uncultured Sarcosomataceae	100.00 	Mismatch¡Ü1
+Entorrhizomycota	0.00 	Perfect match
+uncultured Mucorales	0.00 	Perfect match
+uncultured Basidiobolus	0.00 	Perfect match
+Entorrhizomycota	0.00 	Mismatch¡Ü1
+uncultured Mucorales	0.00 	Mismatch¡Ü1
+uncultured Basidiobolus	0.00 	Mismatch¡Ü1
+

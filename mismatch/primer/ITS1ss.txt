@@ -1,0 +1,14 @@
+Phylum	group	value
+Ascomycota	a	50
+Basidiomycota	a	50
+Blastocladiomycota	a	50
+Cryptomycota	a	50
+uncultured Eimeriidae	a	50
+uncultured eukaryote	a	50
+uncultured Tremellaceae	a	50
+unidentified	a	50
+uncultured Sarcosomataceae	b	50
+Entorrhizomycota	c	50
+uncultured fungus	c	50
+uncultured Mucorales	c	50
+uncultured Basidiobolus	c	50

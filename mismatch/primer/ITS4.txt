@@ -1,0 +1,18 @@
+Phylum	percent	type
+Ascomycota	54.78 	Perfect match
+Basidiomycota	64.04 	Perfect match
+Chytridiomycota	29.01 	Perfect match
+Glomeromycota	20.37 	Perfect match
+Neocallimastigomycota	31.82 	Perfect match
+Zygomycota	47.83 	Perfect match
+Blastocladiomycota	0.00 	Perfect match
+Cryptomycota	0.00 	Perfect match
+Ascomycota	7.173235044	Mismatch¡Ü1
+Basidiomycota	0	Mismatch¡Ü1
+Chytridiomycota	14.50381679	Mismatch¡Ü1
+Glomeromycota	1.851851852	Mismatch¡Ü1
+Neocallimastigomycota	0	Mismatch¡Ü1
+Zygomycota	25.36231884	Mismatch¡Ü1
+Blastocladiomycota	90.90909091	Mismatch¡Ü1
+Cryptomycota	18.75	Mismatch¡Ü1
+
