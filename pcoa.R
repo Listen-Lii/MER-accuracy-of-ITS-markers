@@ -127,6 +127,9 @@ data.plot
 library(ggplot2)
 rowname = row.names(unwei)
 
+# 论文
+data.plot = subset(data.plot,Primer != "BC")
+
 p = ggplot(data.plot,aes(Axis.1,Axis.2))
 p = p + geom_point(aes(colour = Primer,shape=Treatment),alpha= 1,size = 5 );p 
 p = p + xlab(paste("PCoA1=",PCoA1*100,"%",sep=""))+ylab(paste("PCoA2=",PCoA2*100,"%",sep=""));p  #+ labs(title = "PCoA analysis") ;p
@@ -153,3 +156,6 @@ p = p +  stat_ellipse(aes(colour = Primer, group=ellipse),level=0.95,linetype =2
 
 #ggsave("unweight.pdf", width = 4, height = 2.5,dpi = 600); ?ggsave; getwd()
 
+library(eoffice)
+f = "E:/桌面/毕业/毕业论文图片/ITS.pptx"
+topptx(p,f,append=TRUE,width = 10,height = 6)
